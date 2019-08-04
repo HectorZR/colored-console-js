@@ -1,0 +1,19 @@
+{
+  "name": "colored-console-js",
+  "version": "0.1.0",
+  "description": "Get a console output full of color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseHpZ/colored-console-js.git"
+  },
+  "author": "Hector Zurga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseHpZ/colored-console-js/issues"
+  },
+  "homepage": "https://github.com/JoseHpZ/colored-console-js#readme"
+}
